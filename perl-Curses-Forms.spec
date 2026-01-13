@@ -8,7 +8,7 @@ Summary:	Curses::Forms - Curses Forms Framework
 Summary(pl.UTF-8):	Curses::Forms - szkielet formularzy oparty na bibliotece curses
 Name:		perl-Curses-Forms
 Version:	1.997
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Curses/CursesForms-%{version}.tar.gz
